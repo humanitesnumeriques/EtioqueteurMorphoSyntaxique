@@ -1,1 +1,1 @@
-# EtioqueteurMorphoSyntaxique
+# EtiqueteurMorphoSyntaxique
